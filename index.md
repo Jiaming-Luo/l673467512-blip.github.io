@@ -1,4 +1,7 @@
-# Welcome to Jiaming Luo's Portfolio
+---
+layout: default
+title: Home
+---
 
 ## 1. Headline
 **Data Scientist | Data Analyst | Software System Engineer**
@@ -61,3 +64,5 @@ I am a dedicated Data Science graduate student at Lingnan University with a soli
 ## 6. Contact
 - **Email:** l673467512@gmail.com
 - **Phone:** (+86) 15913209527
+- **LinkedIn:** [Your LinkedIn URL]
+- **GitHub:** [Your GitHub URL]
